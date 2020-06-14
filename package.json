@@ -1,0 +1,28 @@
+{
+  "name": "Projetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosGodoi/Projetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosGodoi/Projetos/issues"
+  },
+  "homepage": "https://github.com/CarlosGodoi/Projetos#readme",
+  "dependencies": {
+    "err": "^2.1.11",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1",
+    "pg": "^8.2.1",
+    "typescript": "^3.9.5"
+  }
+}
