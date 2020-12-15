@@ -1,8 +1,8 @@
 # Projeto-Doe-Sangue 🩸
 
-## Este projeto foi desenvolvido na maratona dev ministrado pela Rockeseat 🚀 em fevereiro de 2020
+#### Este projeto foi desenvolvido na maratona dev ministrado pela Rockeseat 🚀 em fevereiro de 2020
 
-# Tecnologias utilizadas no Front-End
+## Tecnologias utilizadas no Front-End
 
 - HTML ✅
 
@@ -12,7 +12,7 @@
 
 - Engine Nunjucks ✅
 
-# Tecnologias utilizadas no Backend
+## Tecnologias utilizadas no Backend
 
 - NodeJs e Express ✅
 
